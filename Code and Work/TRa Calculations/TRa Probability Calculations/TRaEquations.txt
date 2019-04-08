@@ -1,0 +1,17 @@
+Here is the simplified equation for calculating the probability of a 3-Game set under TRa Rules:
+2*p**2*q - p**2 - 2*p*q + 2*p
+
+Here is the simplified equation for calculating the probability of a 5-Game set under TRa Rules:
+-p**4*q + p**4 + 4*p**3*q**2 - p**3*q - 2*p**3 - p**2*q**3 - 4*p**2*q**2 + 5*p**2*q + p*q**3 - 3*p*q + 2*p
+
+Here is the simplified equation for calculating the probability of a 7-Game set under TRa Rules:
+2*p**6*q - 2*p**6 - 4*p**5*q**2 - 2*p**5*q + 6*p**5 + 8*p**4*q**3 + p**4*q**2 - 3*p**4*q - 5*p**4 - 4*p**3*q**4 - 6*p**3*q**3 + 9*p**3*q**2 + p**3*q + 2*p**2*q**5 + p**2*q**4 - 3*p**2*q**3 - 5*p**2*q**2 + 5*p**2*q - 2*p*q**5 + 3*p*q**4 + p*q**3 - p*q**2 - 3*p*q + 2*p
+
+Here is the simplified equation for calculating the probability of a 9-Game set under TRa Rules:
+-5*p**8*q + 5*p**8 + 9*p**7*q**2 + 11*p**7*q - 20*p**7 - 12*p**6*q**3 - 15*p**6*q**2 - p**6*q + 28*p**6 + 18*p**5*q**4 + 6*p**5*q**3 - 9*p**5*q - 14*p**5 - 12*p**4*q**5 - 11*p**4*q**4 + 21*p**4*q**3 + p**4*q**2 + p**4*q + 9*p**3*q**6 - 4*p**3*q**5 - 5*p**3*q**4 - 13*p**3*q**3 + 12*p**3*q**2 + p**3*q - 5*p**2*q**7 + 4*p**2*q**6 + 9*p**2*q**5 - 6*p**2*q**4 - p**2*q**3 - 6*p**2*q**2 + 5*p**2*q + 5*p*q**7 - 13*p*q**6 + 7*p*q**5 + 4*p*q**4 - p*q**3 - p*q**2 - 3*p*q + 2*p
+
+Here is the simplified equation for calculating the probability of a 11-Game set under TRa Rules:
+14*p**10*q - 14*p**10 - 24*p**9*q**2 - 46*p**9*q + 70*p**9 + 30*p**8*q**3 + 66*p**8*q**2 + 39*p**8*q - 135*p**8 - 36*p**7*q**4 - 52*p**7*q**3 - 47*p**7*q**2 + 15*p**7*q + 120*p**7 + 44*p**6*q**5 + 28*p**6*q**4 - 2*p**6*q**2 - 27*p**6*q - 42*p**6 - 36*p**5*q**6 - 16*p**5*q**5 + 36*p**5*q**4 + 18*p**5*q**3 - 3*p**5*q**2 + p**5*q + 30*p**4*q**7 - 17*p**4*q**6 - 24*p**4*q**5 - 13*p**4*q**4 + 17*p**4*q**3 + 6*p**4*q**2 + p**4*q - 24*p**3*q**8 + 38*p**3*q**7 - 2*p**3*q**5 - 15*p**3*q**4 - 9*p**3*q**3 + 11*p**3*q**2 + p**3*q + 14*p**2*q**9 - 27*p**2*q**8 - 9*p**2*q**7 + 40*p**2*q**6 - 15*p**2*q**5 + p**2*q**4 - 3*p**2*q**3 - 6*p**2*q**2 + 5*p**2*q - 14*p*q**9 + 51*p*q**8 - 59*p*q**7 + 13*p*q**6 + 13*p*q**5 - p*q**4 - p*q**3 - p*q**2 - 3*p*q + 2*p
+
+Here is the simplified equation for calculating the probability of a 13-Game set under TRa Rules:
+-42*p**12*q + 42*p**12 + 70*p**11*q**2 + 182*p**11*q - 252*p**11 - 85*p**10*q**3 - 265*p**10*q**2 - 266*p**10*q + 616*p**10 + 98*p**9*q**4 + 237*p**9*q**3 + 341*p**9*q**2 + 94*p**9*q - 770*p**9 - 107*p**8*q**5 - 185*p**8*q**4 - 166*p**8*q**3 - 146*p**8*q**2 + 109*p**8*q + 495*p**8 + 120*p**7*q**6 + 89*p**7*q**5 + 46*p**7*q**4 - 40*p**7*q**3 + p**7*q**2 - 83*p**7*q - 132*p**7 - 107*p**6*q**7 - 33*p**6*q**6 + 100*p**6*q**5 + 10*p**6*q**4 + 48*p**6*q**3 - 19*p**6*q**2 + p**6*q + 98*p**5*q**8 - 77*p**5*q**7 - 41*p**5*q**6 - 64*p**5*q**5 + 81*p**5*q**4 - 8*p**5*q**3 + 10*p**5*q**2 + p**5*q - 85*p**4*q**9 + 141*p**4*q**8 + 8*p**4*q**7 - 68*p**4*q**6 + 14*p**4*q**5 - 45*p**4*q**4 + 30*p**4*q**3 + 4*p**4*q**2 + p**4*q + 70*p**3*q**10 - 185*p**3*q**9 + 122*p**3*q**8 + 4*p**3*q**7 + 29*p**3*q**6 - 40*p**3*q**5 - 12*p**3*q**3 + 11*p**3*q**2 + p**3*q - 42*p**2*q**11 + 126*p**2*q**10 - 66*p**2*q**9 - 132*p**2*q**8 + 161*p**2*q**7 - 48*p**2*q**6 + 9*p**2*q**5 - 4*p**2*q**4 - 3*p**2*q**3 - 6*p**2*q**2 + 5*p**2*q + 42*p*q**11 - 196*p*q**10 + 336*p*q**9 - 229*p*q**8 + 11*p*q**7 + 41*p*q**6 - p*q**5 - p*q**4 - p*q**3 - p*q**2 - 3*p*q + 2*p

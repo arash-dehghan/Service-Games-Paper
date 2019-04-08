@@ -1,0 +1,54 @@
+### 3 Games ###
+
+Here is the simplified equation for calculating the expected length of a 3-Game set under SRa Rules with Can't Win More Than 1:
+-p**2 + p*q + p + 2
+
+### 5 Games ###
+
+Here is the simplified equation for calculating the expected length of a 5-Game set under SRa Rules with Can't Win More Than 1:
+-3*p**3*q + 2*p**3 + 3*p**2*q**2 + 2*p**2*q - 5*p**2 - 3*p*q**2 + 3*p*q + 3*p + 3
+
+Here is the simplified equation for calculating the expected length of a 5-Game set under SRa Rules with Can't Win More Than 2:
+-3*p**3*q + p**3 + 3*p**2*q**2 + p**2*q - 2*p**2 - 3*p*q**2 + 6*p*q - p + q**2 - 3*q + 5
+
+### 7 Games ###
+
+Here is the simplified equation for calculating the expected length of a 7-Game set under SRa Rules with Can't Win More Than 1:
+-10*p**4*q**2 + 12*p**4*q - 3*p**4 + 10*p**3*q**3 + 6*p**3*q**2 - 27*p**3*q + 11*p**3 - 16*p**2*q**3 + 18*p**2*q**2 + 12*p**2*q - 14*p**2 + 6*p*q**3 - 14*p*q**2 + 6*p*q + 6*p + 4
+
+Here is the simplified equation for calculating the expected length of a 7-Game set under SRa Rules with Can't Win More Than 2:
+-8*p**4*q**2 + 7*p**4*q - p**4 + 11*p**3*q**3 - 3*p**3*q**2 - 11*p**3*q + 3*p**3 - p**2*q**4 - 16*p**2*q**3 + 29*p**2*q**2 - 8*p**2*q - 2*p**2 + p*q**4 + 5*p*q**3 - 20*p*q**2 + 19*p*q - 3*p - q**3 + 3*q**2 - 5*q + 7
+
+Here is the simplified equation for calculating the expected length of a 7-Game set under SRa Rules with Can't Win More Than 3:
+-10*p**4*q**2 + 8*p**4*q - p**4 + 10*p**3*q**3 + 3*p**3*q**2 - 16*p**3*q + 5*p**3 - 15*p**2*q**3 + 21*p**2*q**2 + 3*p**2*q - 7*p**2 + 5*p*q**3 - 12*p*q**2 + 9*p*q + q**3 - q**2 - 3*q + 7
+
+### 9 Games ###
+
+Here is the simplified equation for calculating the expected length of a 9-Game set under SRa Rules with Can't Win More Than 1:
+-35*p**5*q**3 + 60*p**5*q**2 - 30*p**5*q + 4*p**5 + 35*p**4*q**4 + 20*p**4*q**3 - 140*p**4*q**2 + 104*p**4*q - 19*p**4 - 75*p**3*q**4 + 100*p**3*q**3 + 60*p**3*q**2 - 120*p**3*q + 35*p**3 + 50*p**2*q**4 - 120*p**2*q**3 + 60*p**2*q**2 + 40*p**2*q - 30*p**2 - 10*p*q**4 + 35*p*q**3 - 40*p*q**2 + 10*p*q + 10*p + 5
+
+Here is the simplified equation for calculating the expected length of a 9-Game set under SRa Rules with Can't Win More Than 2:
+p**6*q**2 - 21*p**5*q**3 + 28*p**5*q**2 - 11*p**5*q + p**5 + 39*p**4*q**4 - 31*p**4*q**3 - 34*p**4*q**2 + 30*p**4*q - 4*p**4 - 9*p**3*q**5 - 57*p**3*q**4 + 142*p**3*q**3 - 72*p**3*q**2 - 9*p**3*q + 5*p**3 + 16*p**2*q**5 + 6*p**2*q**4 - 108*p**2*q**3 + 130*p**2*q**2 - 41*p**2*q - 7*p*q**5 + 12*p*q**4 + 20*p*q**3 - 57*p*q**2 + 41*p*q - 6*p + q**4 - 3*q**3 + 5*q**2 - 7*q + 9
+
+Here is the simplified equation for calculating the expected length of a 9-Game set under SRa Rules with Can't Win More Than 3:
+p**6*q**2 - 32*p**5*q**3 + 42*p**5*q**2 - 15*p**5*q + p**5 + 34*p**4*q**4 + 6*p**4*q**3 - 84*p**4*q**2 + 50*p**4*q - 6*p**4 - 3*p**3*q**5 - 64*p**3*q**4 + 108*p**3*q**3 - p**3*q**2 - 52*p**3*q + 14*p**3 + 3*p**2*q**5 + 36*p**2*q**4 - 106*p**2*q**3 + 75*p**2*q**2 + 7*p**2*q - 13*p**2 - 6*p*q**4 + 22*p*q**3 - 30*p*q**2 + 16*p*q - q**4 + 3*q**3 - 2*q**2 - 4*q + 9
+
+Here is the simplified equation for calculating the expected length of a 9-Game set under SRa Rules with Can't Win More Than 4:
+-35*p**5*q**3 + 45*p**5*q**2 - 15*p**5*q + p**5 + 35*p**4*q**4 + 13*p**4*q**3 - 94*p**4*q**2 + 52*p**4*q - 4*p**4 - 67*p**3*q**4 + 94*p**3*q**3 + 20*p**3*q**2 - 54*p**3*q + 9*p**3 + 36*p**2*q**4 - 90*p**2*q**3 + 60*p**2*q**2 + 6*p**2*q - 10*p**2 - 4*p*q**4 + 20*p*q**3 - 30*p*q**2 + 16*p*q + q**4 - q**3 - 4*q + 9
+
+### 11 Games ###
+
+Here is the simplified equation for calculating the expected length of a 11-Game set under SRa Rules with Can't Win More Than 1:
+-126*p**6*q**4 + 280*p**6*q**3 - 210*p**6*q**2 + 60*p**6*q - 5*p**6 + 126*p**5*q**5 + 70*p**5*q**4 - 700*p**5*q**3 + 750*p**5*q**2 - 275*p**5*q + 29*p**5 - 336*p**4*q**5 + 525*p**4*q**4 + 300*p**4*q**3 - 900*p**4*q**2 + 480*p**4*q - 69*p**4 + 315*p**3*q**5 - 825*p**3*q**4 + 500*p**3*q**3 + 300*p**3*q**2 - 375*p**3*q + 85*p**3 - 120*p**2*q**5 + 425*p**2*q**4 - 500*p**2*q**3 + 150*p**2*q**2 + 100*p**2*q - 55*p**2 + 15*p*q**5 - 69*p*q**4 + 120*p*q**3 - 90*p*q**2 + 15*p*q + 15*p + 6
+
+Here is the simplified equation for calculating the expected length of a 11-Game set under SRa Rules with Can't Win More Than 2:
+3*p**7*q**3 - 3*p**7*q**2 - 60*p**6*q**4 + 102*p**6*q**3 - 58*p**6*q**2 + 15*p**6*q - p**6 + 135*p**5*q**5 - 179*p**5*q**4 - 51*p**5*q**3 + 147*p**5*q**2 - 57*p**5*q + 5*p**5 - 52*p**4*q**6 - 178*p**4*q**5 + 645*p**4*q**4 - 508*p**4*q**3 + 44*p**4*q**2 + 58*p**4*q - 9*p**4 + 2*p**3*q**7 + 112*p**3*q**6 - 104*p**3*q**5 - 433*p**3*q**4 + 768*p**3*q**3 - 388*p**3*q**2 + 38*p**3*q + 5*p**3 - 4*p**2*q**7 - 73*p**2*q**6 + 215*p**2*q**5 - 53*p**2*q**4 - 340*p**2*q**3 + 367*p**2*q**2 - 114*p**2*q + 5*p**2 + 2*p*q**7 + 13*p*q**6 - 68*p*q**5 + 78*p*q**4 + 30*p*q**3 - 115*p*q**2 + 73*p*q - 10*p - q**5 + 3*q**4 - 5*q**3 + 7*q**2 - 9*q + 11
+
+Here is the simplified equation for calculating the expected length of a 11-Game set under SRa Rules with Can't Win More Than 3:
+6*p**7*q**3 - 6*p**7*q**2 - 106*p**6*q**4 + 185*p**6*q**3 - 105*p**6*q**2 + 24*p**6*q - p**6 + 113*p**5*q**5 + 21*p**5*q**4 - 412*p**5*q**3 + 381*p**5*q**2 - 109*p**5*q + 6*p**5 - 26*p**4*q**6 - 215*p**4*q**5 + 449*p**4*q**4 - 2*p**4*q**3 - 371*p**4*q**2 + 183*p**4*q - 18*p**4 + p**3*q**7 + 44*p**3*q**6 + 116*p**3*q**5 - 571*p**3*q**4 + 536*p**3*q**3 - 24*p**3*q**2 - 129*p**3*q + 29*p**3 - p**2*q**7 - 18*p**2*q**6 - 19*p**2*q**5 + 239*p**2*q**4 - 380*p**2*q**3 + 188*p**2*q**2 + 14*p**2*q - 21*p**2 + 6*p*q**5 - 32*p*q**4 + 63*p*q**3 - 60*p*q**2 + 25*p*q - 2*q**4 + 5*q**3 - 3*q**2 - 5*q + 11
+
+Here is the simplified equation for calculating the expected length of a 11-Game set under SRa Rules with Can't Win More Than 4:
+2*p**7*q**3 - 122*p**6*q**4 + 219*p**6*q**3 - 126*p**6*q**2 + 24*p**6*q - p**6 + 123*p**5*q**5 + 43*p**5*q**4 - 486*p**5*q**3 + 425*p**5*q**2 - 110*p**5*q + 5*p**5 - 5*p**4*q**6 - 292*p**4*q**5 + 486*p**4*q**4 + 85*p**4*q**3 - 448*p**4*q**2 + 187*p**4*q - 11*p**4 + 5*p**3*q**6 + 234*p**3*q**5 - 638*p**3*q**4 + 453*p**3*q**3 + 60*p**3*q**2 - 129*p**3*q + 17*p**3 - 70*p**2*q**5 + 257*p**2*q**4 - 330*p**2*q**3 + 150*p**2*q**2 + 10*p**2*q - 15*p**2 + 5*p*q**5 - 28*p*q**4 + 60*p*q**3 - 60*p*q**2 + 25*p*q - q**5 + 3*q**4 - 2*q**3 - 5*q + 11
+
+Here is the simplified equation for calculating the expected length of a 11-Game set under SRa Rules with Can't Win More Than 5:
+-126*p**6*q**4 + 224*p**6*q**3 - 126*p**6*q**2 + 24*p**6*q - p**6 + 126*p**5*q**5 + 53*p**5*q**4 - 503*p**5*q**3 + 427*p**5*q**2 - 108*p**5*q + 7*p**5 - 297*p**4*q**5 + 460*p**4*q**4 + 120*p**4*q**3 - 450*p**4*q**2 + 185*p**4*q - 16*p**4 + 232*p**3*q**5 - 610*p**3*q**4 + 430*p**3*q**3 + 60*p**3*q**2 - 130*p**3*q + 20*p**3 - 68*p**2*q**5 + 255*p**2*q**4 - 330*p**2*q**3 + 150*p**2*q**2 + 10*p**2*q - 15*p**2 + 7*p*q**5 - 30*p*q**4 + 60*p*q**3 - 60*p*q**2 + 25*p*q + q**5 - q**4 - 5*q + 11

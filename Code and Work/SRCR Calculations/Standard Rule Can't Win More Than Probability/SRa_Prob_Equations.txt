@@ -1,0 +1,54 @@
+### 3 Games ###
+
+Here is the simplified equation for calculating the probability of a 3-Game set under SRa Rules with Can't Win More Than 1:
+2*p**2*q - p**2 - 2*p*q + 2*p
+
+### 5 Games ###
+
+Here is the simplified equation for calculating the probability of a 5-Game set under SRa Rules with Can't Win More Than 1:
+6*p**3*q**2 - 6*p**3*q + p**3 - 9*p**2*q**2 + 12*p**2*q - 3*p**2 + 3*p*q**2 - 6*p*q + 3*p
+
+Here is the simplified equation for calculating the probability of a 5-Game set under SRa Rules with Can't Win More Than 2:
+-p**4*q + 4*p**3*q**2 - 3*p**3*q + p**3 - p**2*q**3 - 5*p**2*q**2 + 9*p**2*q - 3*p**2 + p*q**3 + p*q**2 - 5*p*q + 3*p
+
+### 7 Games ###
+
+Here is the simplified equation for calculating the probability of a 7-Game set under SRa Rules with Can't Win More Than 1:
+20*p**4*q**3 - 30*p**4*q**2 + 12*p**4*q - p**4 - 40*p**3*q**3 + 72*p**3*q**2 - 36*p**3*q + 4*p**3 + 24*p**2*q**3 - 54*p**2*q**2 + 36*p**2*q - 6*p**2 - 4*p*q**3 + 12*p*q**2 - 12*p*q + 4*p
+
+Here is the simplified equation for calculating the probability of a 7-Game set under SRa Rules with Can't Win More Than 2:
+-2*p**5*q**2 + 2*p**5*q + 12*p**4*q**3 - 12*p**4*q**2 + 2*p**4*q - p**4 - 6*p**3*q**4 - 10*p**3*q**3 + 30*p**3*q**2 - 18*p**3*q + 4*p**3 + 10*p**2*q**4 - 10*p**2*q**3 - 16*p**2*q**2 + 22*p**2*q - 6*p**2 - 4*p*q**4 + 8*p*q**3 - 8*p*q + 4*p
+
+Here is the simplified equation for calculating the probability of a 7-Game set under SRa Rules with Can't Win More Than 3:
+-2*p**5*q**2 + 16*p**4*q**3 - 24*p**4*q**2 + 12*p**4*q - p**4 - 2*p**3*q**4 - 32*p**3*q**3 + 66*p**3*q**2 - 36*p**3*q + 4*p**3 + 2*p**2*q**4 + 20*p**2*q**3 - 52*p**2*q**2 + 36*p**2*q - 6*p**2 - 4*p*q**3 + 12*p*q**2 - 12*p*q + 4*p
+
+### 9 Games ###
+
+Here is the simplified equation for calculating the probability of a 9-Game set under SRa Rules with Can't Win More Than 1:
+70*p**5*q**4 - 140*p**5*q**3 + 90*p**5*q**2 - 20*p**5*q + p**5 - 175*p**4*q**4 + 400*p**4*q**3 - 300*p**4*q**2 + 80*p**4*q - 5*p**4 + 150*p**3*q**4 - 400*p**3*q**3 + 360*p**3*q**2 - 120*p**3*q + 10*p**3 - 50*p**2*q**4 + 160*p**2*q**3 - 180*p**2*q**2 + 80*p**2*q - 10*p**2 + 5*p*q**4 - 20*p*q**3 + 30*p*q**2 - 20*p*q + 5*p
+
+Here is the simplified equation for calculating the probability of a 9-Game set under SRa Rules with Can't Win More Than 2:
+-6*p**6*q**3 + 7*p**6*q**2 - 3*p**6*q + 35*p**5*q**4 - 51*p**5*q**3 + 17*p**5*q**2 + p**5*q + p**5 - 27*p**4*q**5 - 13*p**4*q**4 + 108*p**4*q**3 - 89*p**4*q**2 + 26*p**4*q - 5*p**4 + 2*p**3*q**6 + 51*p**3*q**5 - 91*p**3*q**4 - 13*p**3*q**3 + 95*p**3*q**2 - 54*p**3*q + 10*p**3 - 4*p**2*q**6 - 25*p**2*q**5 + 88*p**2*q**4 - 64*p**2*q**3 - 26*p**2*q**2 + 41*p**2*q - 10*p**2 + 2*p*q**6 + p*q**5 - 19*p*q**4 + 26*p*q**3 - 4*p*q**2 - 11*p*q + 5*p
+
+Here is the simplified equation for calculating the probability of a 9-Game set under SRa Rules with Can't Win More Than 3:
+-11*p**6*q**3 + 10*p**6*q**2 + 44*p**5*q**4 - 73*p**5*q**3 + 50*p**5*q**2 - 20*p**5*q + p**5 - 14*p**4*q**5 - 91*p**4*q**4 + 270*p**4*q**3 - 240*p**4*q**2 + 80*p**4*q - 5*p**4 + p**3*q**6 + 21*p**3*q**5 + 65*p**3*q**4 - 297*p**3*q**3 + 320*p**3*q**2 - 120*p**3*q + 10*p**3 - p**2*q**6 - 7*p**2*q**5 - 23*p**2*q**4 + 131*p**2*q**3 - 170*p**2*q**2 + 80*p**2*q - 10*p**2 + 5*p*q**4 - 20*p*q**3 + 30*p*q**2 - 20*p*q + 5*p
+
+Here is the simplified equation for calculating the probability of a 9-Game set under SRa Rules with Can't Win More Than 4:
+-3*p**6*q**3 + 64*p**5*q**4 - 131*p**5*q**3 + 90*p**5*q**2 - 20*p**5*q + p**5 - 3*p**4*q**5 - 163*p**4*q**4 + 391*p**4*q**3 - 300*p**4*q**2 + 80*p**4*q - 5*p**4 + 3*p**3*q**5 + 144*p**3*q**4 - 397*p**3*q**3 + 360*p**3*q**2 - 120*p**3*q + 10*p**3 - 50*p**2*q**4 + 160*p**2*q**3 - 180*p**2*q**2 + 80*p**2*q - 10*p**2 + 5*p*q**4 - 20*p*q**3 + 30*p*q**2 - 20*p*q + 5*p
+
+### 11 Games ###
+
+Here is the simplified equation for calculating the probability of a 11-Game set under SRa Rules with Can't Win More Than 1:
+252*p**6*q**5 - 630*p**6*q**4 + 560*p**6*q**3 - 210*p**6*q**2 + 30*p**6*q - p**6 - 756*p**5*q**5 + 2100*p**5*q**4 - 2100*p**5*q**3 + 900*p**5*q**2 - 150*p**5*q + 6*p**5 + 840*p**4*q**5 - 2625*p**4*q**4 + 3000*p**4*q**3 - 1500*p**4*q**2 + 300*p**4*q - 15*p**4 - 420*p**3*q**5 + 1500*p**3*q**4 - 2000*p**3*q**3 + 1200*p**3*q**2 - 300*p**3*q + 20*p**3 + 90*p**2*q**5 - 375*p**2*q**4 + 600*p**2*q**3 - 450*p**2*q**2 + 150*p**2*q - 15*p**2 - 6*p*q**5 + 30*p*q**4 - 60*p*q**3 + 60*p*q**2 - 30*p*q + 6*p
+
+Here is the simplified equation for calculating the probability of a 11-Game set under SRa Rules with Can't Win More Than 2:
+-16*p**7*q**4 + 27*p**7*q**3 - 15*p**7*q**2 + 4*p**7*q + 106*p**6*q**5 - 198*p**6*q**4 + 110*p**6*q**3 - 10*p**6*q**2 - 6*p**6*q - p**6 - 112*p**5*q**6 + 46*p**5*q**5 + 348*p**5*q**4 - 437*p**5*q**3 + 179*p**5*q**2 - 30*p**5*q + 6*p**5 + 18*p**4*q**7 + 220*p**4*q**6 - 560*p**4*q**5 + 227*p**4*q**4 + 326*p**4*q**3 - 316*p**4*q**2 + 100*p**4*q - 15*p**4 - 45*p**3*q**7 - 81*p**3*q**6 + 554*p**3*q**5 - 666*p**3*q**4 + 139*p**3*q**3 + 199*p**3*q**2 - 120*p**3*q + 20*p**3 + 36*p**2*q**7 - 56*p**2*q**6 - 130*p**2*q**5 + 345*p**2*q**4 - 220*p**2*q**3 - 26*p**2*q**2 + 66*p**2*q - 15*p**2 - 9*p*q**7 + 29*p*q**6 - 16*p*q**5 - 40*p*q**4 + 55*p*q**3 - 11*p*q**2 - 14*p*q + 6*p
+
+Here is the simplified equation for calculating the probability of a 11-Game set under SRa Rules with Can't Win More Than 3:
+-42*p**7*q**4 + 72*p**7*q**3 - 30*p**7*q**2 + 138*p**6*q**5 - 235*p**6*q**4 + 132*p**6*q**3 - 63*p**6*q**2 + 30*p**6*q - p**6 - 60*p**5*q**6 - 270*p**5*q**5 + 1012*p**5*q**4 - 1150*p**5*q**3 + 612*p**5*q**2 - 150*p**5*q + 6*p**5 + 12*p**4*q**7 + 99*p**4*q**6 + 168*p**4*q**5 - 1344*p**4*q**4 + 1998*p**4*q**3 - 1218*p**4*q**2 + 300*p**4*q - 15*p**4 - 22*p**3*q**7 - 26*p**3*q**6 - 72*p**3*q**5 + 832*p**3*q**4 - 1494*p**3*q**3 + 1062*p**3*q**2 - 300*p**3*q + 20*p**3 + 10*p**2*q**7 - 13*p**2*q**6 + 42*p**2*q**5 - 253*p**2*q**4 + 502*p**2*q**3 - 423*p**2*q**2 + 150*p**2*q - 15*p**2 - 6*p*q**5 + 30*p*q**4 - 60*p*q**3 + 60*p*q**2 - 30*p*q + 6*p
+
+Here is the simplified equation for calculating the probability of a 11-Game set under SRa Rules with Can't Win More Than 4:
+-22*p**7*q**4 + 20*p**7*q**3 + 204*p**6*q**5 - 502*p**6*q**4 + 482*p**6*q**3 - 210*p**6*q**2 + 30*p**6*q - p**6 - 24*p**5*q**6 - 604*p**5*q**5 + 1858*p**5*q**4 - 1986*p**5*q**3 + 900*p**5*q**2 - 150*p**5*q + 6*p**5 + 2*p**4*q**7 + 36*p**4*q**6 + 688*p**4*q**5 - 2437*p**4*q**4 + 2926*p**4*q**3 - 1500*p**4*q**2 + 300*p**4*q - 15*p**4 - 2*p**3*q**7 - 12*p**3*q**6 - 372*p**3*q**5 + 1448*p**3*q**4 - 1982*p**3*q**3 + 1200*p**3*q**2 - 300*p**3*q + 20*p**3 + 90*p**2*q**5 - 375*p**2*q**4 + 600*p**2*q**3 - 450*p**2*q**2 + 150*p**2*q - 15*p**2 - 6*p*q**5 + 30*p*q**4 - 60*p*q**3 + 60*p*q**2 - 30*p*q + 6*p
+
+Here is the simplified equation for calculating the probability of a 11-Game set under SRa Rules with Can't Win More Than 5:
+-4*p**7*q**4 + 244*p**6*q**5 - 618*p**6*q**4 + 560*p**6*q**3 - 210*p**6*q**2 + 30*p**6*q - p**6 - 4*p**5*q**6 - 740*p**5*q**5 + 2088*p**5*q**4 - 2100*p**5*q**3 + 900*p**5*q**2 - 150*p**5*q + 6*p**5 + 4*p**4*q**6 + 832*p**4*q**5 - 2621*p**4*q**4 + 3000*p**4*q**3 - 1500*p**4*q**2 + 300*p**4*q - 15*p**4 - 420*p**3*q**5 + 1500*p**3*q**4 - 2000*p**3*q**3 + 1200*p**3*q**2 - 300*p**3*q + 20*p**3 + 90*p**2*q**5 - 375*p**2*q**4 + 600*p**2*q**3 - 450*p**2*q**2 + 150*p**2*q - 15*p**2 - 6*p*q**5 + 30*p*q**4 - 60*p*q**3 + 60*p*q**2 - 30*p*q + 6*p

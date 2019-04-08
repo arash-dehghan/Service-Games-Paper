@@ -1,0 +1,17 @@
+Here is the simplified equation for calculating the probability of a 3-Game set under SR/CR Rules:
+p*(2*p*q - p - 2*q + 2)
+
+Here is the simplified equation for calculating the probability of a 5-Game set under SR/CR Rules:
+p*(6*p**2*q**2 - 6*p**2*q + p**2 - 9*p*q**2 + 12*p*q - 3*p + 3*q**2 - 6*q + 3)
+
+Here is the simplified equation for calculating the probability of a 7-Game set under SR/CR Rules:
+p*(20*p**3*q**3 - 30*p**3*q**2 + 12*p**3*q - p**3 - 40*p**2*q**3 + 72*p**2*q**2 - 36*p**2*q + 4*p**2 + 24*p*q**3 - 54*p*q**2 + 36*p*q - 6*p - 4*q**3 + 12*q**2 - 12*q + 4)
+
+Here is the simplified equation for calculating the probability of a 9-Game set under SR/CR Rules:
+p*(70*p**4*q**4 - 140*p**4*q**3 + 90*p**4*q**2 - 20*p**4*q + p**4 - 175*p**3*q**4 + 400*p**3*q**3 - 300*p**3*q**2 + 80*p**3*q - 5*p**3 + 150*p**2*q**4 - 400*p**2*q**3 + 360*p**2*q**2 - 120*p**2*q + 10*p**2 - 50*p*q**4 + 160*p*q**3 - 180*p*q**2 + 80*p*q - 10*p + 5*q**4 - 20*q**3 + 30*q**2 - 20*q + 5)
+
+Here is the simplified equation for calculating the probability of a 11-Game set under SR/CR Rules:
+p*(252*p**5*q**5 - 630*p**5*q**4 + 560*p**5*q**3 - 210*p**5*q**2 + 30*p**5*q - p**5 - 756*p**4*q**5 + 2100*p**4*q**4 - 2100*p**4*q**3 + 900*p**4*q**2 - 150*p**4*q + 6*p**4 + 840*p**3*q**5 - 2625*p**3*q**4 + 3000*p**3*q**3 - 1500*p**3*q**2 + 300*p**3*q - 15*p**3 - 420*p**2*q**5 + 1500*p**2*q**4 - 2000*p**2*q**3 + 1200*p**2*q**2 - 300*p**2*q + 20*p**2 + 90*p*q**5 - 375*p*q**4 + 600*p*q**3 - 450*p*q**2 + 150*p*q - 15*p - 6*q**5 + 30*q**4 - 60*q**3 + 60*q**2 - 30*q + 6)
+
+Here is the simplified equation for calculating the probability of a 13-Game set under SR/CR Rules:
+p*(924*p**6*q**6 - 2772*p**6*q**5 + 3150*p**6*q**4 - 1680*p**6*q**3 + 420*p**6*q**2 - 42*p**6*q + p**6 - 3234*p**5*q**6 + 10584*p**5*q**5 - 13230*p**5*q**4 + 7840*p**5*q**3 - 2205*p**5*q**2 + 252*p**5*q - 7*p**5 + 4410*p**4*q**6 - 15876*p**4*q**5 + 22050*p**4*q**4 - 14700*p**4*q**3 + 4725*p**4*q**2 - 630*p**4*q + 21*p**4 - 2940*p**3*q**6 + 11760*p**3*q**5 - 18375*p**3*q**4 + 14000*p**3*q**3 - 5250*p**3*q**2 + 840*p**3*q - 35*p**3 + 980*p**2*q**6 - 4410*p**2*q**5 + 7875*p**2*q**4 - 7000*p**2*q**3 + 3150*p**2*q**2 - 630*p**2*q + 35*p**2 - 147*p*q**6 + 756*p*q**5 - 1575*p*q**4 + 1680*p*q**3 - 945*p*q**2 + 252*p*q - 21*p + 7*q**6 - 42*q**5 + 105*q**4 - 140*q**3 + 105*q**2 - 42*q + 7)
